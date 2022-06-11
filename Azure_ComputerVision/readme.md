@@ -30,4 +30,4 @@ Analizar una imagen por medio de Azure Computer Vision
 <img src="images/Captura6.PNG" alt="c6" width="700"/> 
 
 ### código
-[Programa](/ComputerVision/Computer-Demo.ipynb)
+[Programa](ComputerVision/Computer-Demo.ipynb)
